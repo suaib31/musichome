@@ -1,5 +1,5 @@
 # musichome
-A website musical institute 
+A website for musical institute 
 website url: https://musichomedxb.ae/
 
 this website is based on Wordpress 
